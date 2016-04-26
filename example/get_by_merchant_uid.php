@@ -1,6 +1,6 @@
 <?php
 
-use Freshope\Iamport\Iamport;
+use JwleeYS\Iamport\Iamport;
 
 require_once '../vendor/autoload.php';
 

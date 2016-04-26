@@ -1,6 +1,6 @@
 <?php
 
-namespace Freshope\Iamport;
+namespace JwleeYS\Iamport;
 
 class IamportPayment {
 	protected $response;

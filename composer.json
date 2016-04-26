@@ -1,5 +1,5 @@
 {
-    "name": "freshope/iamport-rest-client-composer",
+    "name": "jwlee-ys/iamport-rest-client-composer",
     "description": "iamport rest client with composer",
     "license": "MIT",
     "type": "library",
@@ -8,7 +8,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Freshope\\Iamport\\": "src/"
+            "JwleeYS\\Iamport\\": "src/"
         }
     },
     "require-dev": {

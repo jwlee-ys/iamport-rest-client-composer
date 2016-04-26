@@ -1,6 +1,6 @@
 <?php
 
-namespace Freshope\Iamport;
+namespace JwleeYS\Iamport;
 
 class IamportAuthException extends Exception {
 	public function __construct($message, $code) {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Freshope\Iamport;
+namespace JwleeYS\Iamport;
 
 class Iamport {
 	const GET_TOKEN_URL = 'https://api.iamport.kr/users/getToken';
