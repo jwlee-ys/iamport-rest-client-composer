@@ -1,0 +1,17 @@
+{
+    "name": "freshope/iamport-rest-client-composer",
+    "description": "iamport rest client with composer",
+    "license": "MIT",
+    "type": "library",
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Freshope\\Iamport\\": "src/"
+        }
+    },
+    "require-dev": {
+        "vlucas/phpdotenv": "^2.2"
+    }
+}

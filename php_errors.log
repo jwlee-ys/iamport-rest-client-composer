@@ -1,0 +1,3 @@
+[26-Apr-2016 02:17:01 UTC] PHP Fatal error:  Class 'Freshope\Iamport' not found in /home/ubuntu/workspace/iamport-rest-client/example/get_by_imp_uid.php on line 20
+[26-Apr-2016 02:17:01 UTC] PHP Stack trace:
+[26-Apr-2016 02:17:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/iamport-rest-client/example/get_by_imp_uid.php:0
